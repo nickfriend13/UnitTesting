@@ -347,7 +347,7 @@ namespace ChallengeNameSpace
             {
                 // you can make method calls here if you like
                 Console.WriteLine("Hello, World!");
-            Console.WriteLine(Challenges.PigLatinTranslator("Queues are an Excellent Datastructure"));
+            //Console.WriteLine(Challenges.PigLatinTranslator("Queues are an Excellent Datastructure"));
             }
         }
     }
